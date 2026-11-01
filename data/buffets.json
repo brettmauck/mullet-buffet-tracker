@@ -2080,5 +2080,20 @@
     "fortune": "Love and romance will flourish in December.",
     "lat": 41.9914932,
     "lng": -88.1447302
+  },
+  {
+    "id": "124bc0bc-b5a5-440f-ad44-5160c25b38c7",
+    "date": "2026-10-31",
+    "name": "Shiki Buffet",
+    "address": "240 Town Center Ln, Glendale Heights, IL 60139",
+    "yelp": 2.8,
+    "mullet": 2.3,
+    "gooning": true,
+    "pizza": true,
+    "cost": 44.08,
+    "link": "https://www.instagram.com/reel/DfLJ29ex13y/?rpxt=MXg5OHcxeTVtcTF0Zg==",
+    "fortune": "You will be able to escape the stresses of everyday life during your travels.",
+    "lat": 41.937701600386,
+    "lng": -88.0785168829
   }
 ]
