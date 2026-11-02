@@ -2095,5 +2095,20 @@
     "fortune": "You will be able to escape the stresses of everyday life during your travels.",
     "lat": 41.937701600386,
     "lng": -88.0785168829
+  },
+  {
+    "id": "3098ea01-8650-4deb-aaf6-08fe83b4e8ea",
+    "date": "2026-11-01",
+    "name": "China Buffet",
+    "address": "175 Hiawatha Dr, Carol Stream, IL 60188",
+    "yelp": 3.2,
+    "mullet": 3,
+    "gooning": true,
+    "pizza": false,
+    "cost": 37,
+    "link": "https://www.instagram.com/reel/DfOHHF4RUjD/?xtok=Z21tZWtuZjd4Z2E0",
+    "fortune": "",
+    "lat": 41.9168626,
+    "lng": -88.129751
   }
 ]
