@@ -2110,5 +2110,20 @@
     "fortune": "",
     "lat": 41.9168626,
     "lng": -88.129751
+  },
+  {
+    "id": "113d28b2-043b-4b96-b44c-b7a432a44daf",
+    "date": "2026-11-02",
+    "name": "Asia Buffet & Grill",
+    "address": "8059 S Cicero Ave, Chicago, IL 60652",
+    "yelp": 3.1,
+    "mullet": 4.6,
+    "gooning": true,
+    "pizza": true,
+    "cost": 39.95,
+    "link": "https://www.instagram.com/reel/DfQr_8ZR4_b/?vrfl=MWFnOGc5ZWJ1NjJ2eQ==",
+    "fortune": "Trust in the love and support of your family.",
+    "lat": 41.746369099937,
+    "lng": -87.741182730511
   }
 ]
