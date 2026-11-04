@@ -2125,5 +2125,20 @@
     "fortune": "Trust in the love and support of your family.",
     "lat": 41.746369099937,
     "lng": -87.741182730511
+  },
+  {
+    "id": "9aff7f6f-30f6-4057-87c3-26e5dbb59485",
+    "date": "2026-11-03",
+    "name": "Two Volcano Seafood Buffet",
+    "address": "4817 W 77th St, Burbank, IL 60459",
+    "yelp": 2.1,
+    "mullet": 2.6,
+    "gooning": true,
+    "pizza": true,
+    "cost": 39.58,
+    "link": "https://www.instagram.com/reel/DfTe7cTu_NM/?dlrf=N2piYnA5bjAycnQx",
+    "fortune": "",
+    "lat": 41.7521716,
+    "lng": -87.7776531
   }
 ]
