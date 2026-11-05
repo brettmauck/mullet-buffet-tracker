@@ -2140,5 +2140,20 @@
     "fortune": "",
     "lat": 41.7521716,
     "lng": -87.7776531
+  },
+  {
+    "id": "346a7eaf-2d19-48ec-a45e-7aebd3647ef1",
+    "date": "2026-11-04",
+    "name": "Hibachi Grill & Supreme Buffet",
+    "address": "3804 Nolensville Pk, Nashville, TN 37211",
+    "yelp": 2.6,
+    "mullet": 3,
+    "gooning": false,
+    "pizza": true,
+    "cost": 37.07,
+    "link": "https://www.instagram.com/reel/DfV5WfXxf1i/?obrf=MXFsNWFvN2ljZXh1Ng==",
+    "fortune": "Tomorrow’s kindness will create a ripple of goodwill.",
+    "lat": 36.087785504253,
+    "lng": -86.731081044613
   }
 ]
