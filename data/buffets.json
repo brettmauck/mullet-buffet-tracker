@@ -2155,5 +2155,20 @@
     "fortune": "Tomorrow’s kindness will create a ripple of goodwill.",
     "lat": 36.087785504253,
     "lng": -86.731081044613
+  },
+  {
+    "id": "f1d48577-2930-466e-8276-758f87d3a674",
+    "date": "2026-11-05",
+    "name": "Shiki Buffet",
+    "address": "16060 S Harlem Ave, Tinley Park, IL 60477",
+    "yelp": 2.5,
+    "mullet": 3,
+    "gooning": true,
+    "pizza": true,
+    "cost": 44.67,
+    "link": "https://www.instagram.com/reel/DfYSsa6us_m/?mdxt=NzNrOGdvcG15djM1",
+    "fortune": "",
+    "lat": 41.599209094434,
+    "lng": -87.79413442004
   }
 ]
