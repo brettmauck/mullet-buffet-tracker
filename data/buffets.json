@@ -2170,5 +2170,20 @@
     "fortune": "",
     "lat": 41.599209094434,
     "lng": -87.79413442004
+  },
+  {
+    "id": "5b3f3889-a7b2-44ef-bdfb-f5b7683fef3d",
+    "date": "2026-11-06",
+    "name": "BC Osaka",
+    "address": "2999 E Lincoln Hwy, Merrillville, IN 46410",
+    "yelp": 3.2,
+    "mullet": 2.5,
+    "gooning": true,
+    "pizza": false,
+    "cost": 29.94,
+    "link": "https://www.instagram.com/reel/DfbPkCuuRkB/?obrf=MXRsZnE4MXpxaHJzMQ==",
+    "fortune": "",
+    "lat": 41.470881489303,
+    "lng": -87.297227527212
   }
 ]
