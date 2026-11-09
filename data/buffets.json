@@ -2185,5 +2185,20 @@
     "fortune": "",
     "lat": 41.470881489303,
     "lng": -87.297227527212
+  },
+  {
+    "id": "3a8d12b8-4c26-4af0-9ad8-8dfba5e578a9",
+    "date": "2026-11-08",
+    "name": "Buffet City",
+    "address": "7010 S Pulaski Rd, Chicago, IL 60629",
+    "yelp": 2.5,
+    "mullet": 2.5,
+    "gooning": true,
+    "pizza": true,
+    "cost": 47.2,
+    "link": "https://www.instagram.com/reel/DfgOyn4OreB/?exln=Y2Q2bng1MzdiYmVm",
+    "fortune": "",
+    "lat": 41.765702467814,
+    "lng": -87.722514273462
   }
 ]
