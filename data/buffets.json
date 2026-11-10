@@ -2200,5 +2200,20 @@
     "fortune": "",
     "lat": 41.765702467814,
     "lng": -87.722514273462
+  },
+  {
+    "id": "63ffdce7-f9a1-4f4e-aa9e-42635dcb04ec",
+    "date": "2026-11-09",
+    "name": "Dragon Phoenix Buffet",
+    "address": "2828 Elm Hill Pike #101, Nashville, TN 37214",
+    "yelp": 3.2,
+    "mullet": 3.8,
+    "gooning": true,
+    "pizza": false,
+    "cost": 33.55,
+    "link": "https://www.instagram.com/reel/DfihVj8xBHm/?vrfl=MTBmeHdpZmJwOTZpNg==",
+    "fortune": "The early bird gets the worm, but the second mouse gets the cheese.",
+    "lat": 36.148100194673,
+    "lng": -86.663928239131
   }
 ]
