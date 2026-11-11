@@ -2215,5 +2215,20 @@
     "fortune": "The early bird gets the worm, but the second mouse gets the cheese.",
     "lat": 36.148100194673,
     "lng": -86.663928239131
+  },
+  {
+    "id": "8d1388f3-0c31-4928-ab03-e1517ff0ed55",
+    "date": "2026-11-10",
+    "name": "Far East Buffet",
+    "address": "300 Old Pleasant Grove Rd #405, Mt. Juliet, TN 37122",
+    "yelp": 3.1,
+    "mullet": 3.2,
+    "gooning": true,
+    "pizza": true,
+    "cost": 27.54,
+    "link": "https://www.instagram.com/reel/DflNDfBRAtQ/?obrf=eTU4ajVwZzE5bnNi",
+    "fortune": "",
+    "lat": 36.178137527345,
+    "lng": -86.512618338917
   }
 ]
