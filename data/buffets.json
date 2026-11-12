@@ -2245,5 +2245,20 @@
     "fortune": "",
     "lat": 36.178137527345,
     "lng": -86.512618338917
+  },
+  {
+    "id": "4e924541-11b0-4272-99f8-90a995352993",
+    "date": "2026-11-11",
+    "name": "China Pan Buffet",
+    "address": "5353 Mt View Rd, Antioch, TN 37013",
+    "yelp": 2.2,
+    "mullet": 2,
+    "gooning": true,
+    "pizza": false,
+    "cost": 26.4,
+    "link": "https://www.instagram.com/reel/Dfnn9hHxyUK/?dlrf=anR5ZWozbTR1MnV2",
+    "fortune": "Keep up the good work. You soon will be rewarded financially.",
+    "lat": 36.048648124344,
+    "lng": -86.648089292411
   }
 ]
