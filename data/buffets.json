@@ -2260,5 +2260,20 @@
     "fortune": "Keep up the good work. You soon will be rewarded financially.",
     "lat": 36.048648124344,
     "lng": -86.648089292411
+  },
+  {
+    "id": "4c6b330a-b5db-4cf6-a374-ed9d96ecdbf4",
+    "date": "2026-11-12",
+    "name": "China Buffet",
+    "address": "1909 E Main St #4641, Springfield, OH 45503",
+    "yelp": 2,
+    "mullet": 1,
+    "gooning": true,
+    "pizza": false,
+    "cost": 33.51,
+    "link": "https://www.instagram.com/reel/Dfql-81RsCh/?vrfl=ZXNqOXEzdDQ5Y2I1",
+    "fortune": "You will be recognized for your achievements.",
+    "lat": 39.923268295792,
+    "lng": -83.780376649544
   }
 ]
