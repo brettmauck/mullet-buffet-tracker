@@ -2275,5 +2275,20 @@
     "fortune": "You will be recognized for your achievements.",
     "lat": 39.923268295792,
     "lng": -83.780376649544
+  },
+  {
+    "id": "13fc468b-9c1d-48b6-a119-c81b1824005f",
+    "date": "2026-11-13",
+    "name": "Dynasty Super Buffet",
+    "address": "5433 Nolensville Pk, Nashville, TN 37211",
+    "yelp": 2.1,
+    "mullet": 1.5,
+    "gooning": true,
+    "pizza": true,
+    "cost": 34.45,
+    "link": "https://www.instagram.com/reel/DfsrxbFRxAF/?mdxt=eXYyb2RwODN5aGxo",
+    "fortune": "Faith is knowing there is an ocean when you can only see the stream.",
+    "lat": 36.050312866816,
+    "lng": -86.714101122673
   }
 ]
