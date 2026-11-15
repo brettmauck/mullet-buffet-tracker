@@ -2290,5 +2290,20 @@
     "fortune": "Faith is knowing there is an ocean when you can only see the stream.",
     "lat": 36.050312866816,
     "lng": -86.714101122673
+  },
+  {
+    "id": "79d074e1-c75e-4d8a-bfe0-0592151a48ab",
+    "date": "2026-11-15",
+    "name": "King Buffet",
+    "address": "1051 Murfreesboro Pike, Nashville, TN 37217",
+    "yelp": 2.7,
+    "mullet": 2.7,
+    "gooning": false,
+    "pizza": null,
+    "cost": 37.9,
+    "link": "https://www.instagram.com/reel/Dfx6ZDUxTsj/?exln=MWN5N285czI0ZW96cw==",
+    "fortune": "",
+    "lat": 36.127745969332,
+    "lng": -86.712560219633
   }
 ]
