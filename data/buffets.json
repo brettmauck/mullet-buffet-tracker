@@ -2305,5 +2305,20 @@
     "fortune": "",
     "lat": 36.127745969332,
     "lng": -86.712560219633
+  },
+  {
+    "id": "d7651089-b4c2-4325-8276-ece41d92a7aa",
+    "date": "2026-11-17",
+    "name": "Golden Hibachi Buffet",
+    "address": "600 U.S. 31 W Bypass #1a, Bowling Green, KY 42101",
+    "yelp": 3,
+    "mullet": 2,
+    "gooning": true,
+    "pizza": true,
+    "cost": 39.81,
+    "link": "https://www.instagram.com/reel/Df2_xLrBOHQ/?fqnt=MTZrM2ZuN3AyOTg4cA==",
+    "fortune": "",
+    "lat": 36.990633292541,
+    "lng": -86.42819883389
   }
 ]
