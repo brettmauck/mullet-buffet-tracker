@@ -2307,6 +2307,21 @@
     "lng": -86.712560219633
   },
   {
+    "id": "634e444c-e2e2-4d44-b7b3-c920e5d21bf9",
+    "date": "2026-11-16",
+    "name": "Yoki Buffet",
+    "address": "1145 NW Broad St, Murfreesboro, TN 37129",
+    "yelp": 3.2,
+    "mullet": 3.2,
+    "gooning": true,
+    "pizza": true,
+    "cost": 41.68,
+    "link": "https://www.instagram.com/reel/Df1F5gKRaNJ/?avpt=MTk0aGN5M3Q4YmE1MA==",
+    "fortune": "",
+    "lat": 35.859535087775,
+    "lng": -86.406329972267
+  },
+  {
     "id": "d7651089-b4c2-4325-8276-ece41d92a7aa",
     "date": "2026-11-17",
     "name": "Golden Hibachi Buffet",
