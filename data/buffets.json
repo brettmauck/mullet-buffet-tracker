@@ -2335,5 +2335,20 @@
     "fortune": "",
     "lat": 36.990633292541,
     "lng": -86.42819883389
+  },
+  {
+    "id": "041c8515-14b3-4aa9-8c05-c0a464a70961",
+    "date": "2026-11-18",
+    "name": "Family Buffet",
+    "address": "121 Towne Dr, Elizabethtown, KY 42701",
+    "yelp": 2.9,
+    "mullet": 3.5,
+    "gooning": true,
+    "pizza": false,
+    "cost": 32,
+    "link": "https://www.instagram.com/reel/Df5liWvxFlA/?bqrl=MXJsOXRrbjltc2FmMQ==",
+    "fortune": "Your future is a star guiding you through the night.",
+    "lat": 37.734006112561,
+    "lng": -85.887476336473
   }
 ]
