@@ -2350,5 +2350,20 @@
     "fortune": "Your future is a star guiding you through the night.",
     "lat": 37.734006112561,
     "lng": -85.887476336473
+  },
+  {
+    "id": "4a4ca07e-6b95-4a15-8d68-331527088e34",
+    "date": "2026-11-20",
+    "name": "Kingdom Buffet",
+    "address": "611 W Poplar St A-15, Elizabethtown, KY 42701",
+    "yelp": 3,
+    "mullet": 3.2,
+    "gooning": true,
+    "pizza": true,
+    "cost": 32,
+    "link": "https://www.instagram.com/reel/Df_DmtORO1C/?cnvx=MTdtczI4MHFqZjIyOQ==",
+    "fortune": "Your hard work will be recognized and rewarded in June.",
+    "lat": 37.704493717892,
+    "lng": -85.869849710345
   }
 ]
