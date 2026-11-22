@@ -2365,5 +2365,20 @@
     "fortune": "Your hard work will be recognized and rewarded in June.",
     "lat": 37.704493717892,
     "lng": -85.869849710345
+  },
+  {
+    "id": "c8bf427b-496b-4696-8431-d5de261e6770",
+    "date": "2026-11-21",
+    "name": "Asuka Hibachi Buffet",
+    "address": "645 President Pl, Smyrna, TN 37167",
+    "yelp": 3.1,
+    "mullet": 3.1,
+    "gooning": true,
+    "pizza": true,
+    "cost": 29.83,
+    "link": "https://www.instagram.com/reel/DgBWLaDxY1q/?hvrq=MXZicmVjaHBodmQ0dQ==",
+    "fortune": "You will find joy in the beauty of the natural world.",
+    "lat": 35.981407776019,
+    "lng": -86.554942585824
   }
 ]
