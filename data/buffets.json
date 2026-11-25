@@ -2380,5 +2380,20 @@
     "fortune": "You will find joy in the beauty of the natural world.",
     "lat": 35.981407776019,
     "lng": -86.554942585824
+  },
+  {
+    "id": "0f978831-f97a-4d88-bb1a-9d329f63c4fb",
+    "date": "2026-11-24",
+    "name": "Forbidden City",
+    "address": "2273 Gunbarrel Rd #103, Chattanooga, TN 37421",
+    "yelp": 3.2,
+    "mullet": 3,
+    "gooning": true,
+    "pizza": true,
+    "cost": 32.09,
+    "link": "https://www.instagram.com/reel/DgJGxVhxEh3/?hvrq=emQzY3BvZmZqaGR3",
+    "fortune": "Your success will be marked by personal growth.",
+    "lat": 35.039421864921,
+    "lng": -85.150540720441
   }
 ]
