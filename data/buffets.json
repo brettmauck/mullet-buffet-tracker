@@ -2382,6 +2382,21 @@
     "lng": -86.554942585824
   },
   {
+    "id": "c5f49713-69bc-4097-b5cc-447a0a313e94",
+    "date": "2026-11-23",
+    "name": "Chef Lin Buffet",
+    "address": "5084 South Terrace, Chattanooga, TN 37412",
+    "yelp": 2.7,
+    "mullet": 2.5,
+    "gooning": true,
+    "pizza": false,
+    "cost": 26.52,
+    "link": "https://www.instagram.com/reel/DgGbAtwRcIm/?dmpr=ZnN0bjFvYWpud2wy",
+    "fortune": "Remember to seek joy in the everyday moments of life.",
+    "lat": 35.005386322999,
+    "lng": -85.22984383295
+  },
+  {
     "id": "0f978831-f97a-4d88-bb1a-9d329f63c4fb",
     "date": "2026-11-24",
     "name": "Forbidden City",
