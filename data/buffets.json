@@ -2382,6 +2382,21 @@
     "lng": -86.554942585824
   },
   {
+    "id": "52bc56ef-09ab-443b-b40f-806581945ff9",
+    "date": "2026-11-22",
+    "name": "Sakura Buffet",
+    "address": "624 Parkway, Sevierville, TN 37862",
+    "yelp": 3.3,
+    "mullet": 3.3,
+    "gooning": null,
+    "pizza": true,
+    "cost": 30,
+    "link": "https://www.instagram.com/reel/DgED23Kx9Kz/?jplx=amtqMWlzb2JrZzNh",
+    "fortune": "The greatest of all mistakes is to do nothing.",
+    "lat": 35.858966317492,
+    "lng": -83.566930416414
+  },
+  {
     "id": "c5f49713-69bc-4097-b5cc-447a0a313e94",
     "date": "2026-11-23",
     "name": "Chef Lin Buffet",
