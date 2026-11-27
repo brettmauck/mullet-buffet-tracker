@@ -2425,5 +2425,20 @@
     "fortune": "Your success will be marked by personal growth.",
     "lat": 35.039421864921,
     "lng": -85.150540720441
+  },
+  {
+    "id": "e001486c-1597-461f-89f9-d951c89b39ee",
+    "date": "2026-11-26",
+    "name": "Asia Buffet",
+    "address": "6901 Lee Hwy, Chattanooga, TN 37421",
+    "yelp": 2.8,
+    "mullet": 2.2,
+    "gooning": false,
+    "pizza": true,
+    "cost": 29,
+    "link": "https://www.instagram.com/reel/DgONzMtRsJp/?fqnt=azlmdW1qMm8zNG9y",
+    "fortune": "Things are looking on the bright side for you.",
+    "lat": 35.04240126564,
+    "lng": -85.166540463142
   }
 ]
