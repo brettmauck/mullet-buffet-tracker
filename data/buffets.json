@@ -2440,5 +2440,20 @@
     "fortune": "Things are looking on the bright side for you.",
     "lat": 35.04240126564,
     "lng": -85.166540463142
+  },
+  {
+    "id": "9f71d1da-8c12-498c-9ef5-719c1300e155",
+    "date": "2026-11-27",
+    "name": "Buffet King",
+    "address": "5230 TN-153, Hixson, TN 37343",
+    "yelp": 3.4,
+    "mullet": 4.5,
+    "gooning": true,
+    "pizza": false,
+    "cost": 30.11,
+    "link": "https://www.instagram.com/reel/DgQ9mhOxs9v/?cnvx=aGF1ajRxdDVrZXpz",
+    "fortune": "Use your charm and personality to obtain your wishes.",
+    "lat": 35.1423352,
+    "lng": -85.248827
   }
 ]
